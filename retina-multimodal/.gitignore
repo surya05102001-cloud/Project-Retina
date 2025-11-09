@@ -1,1 +1,48 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Virtual environment folders
+.venv/
+venv/
+env/
+ENV/
+
+# System / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data and outputs (large or sensitive files)
+data/
+outputs/
+*.csv
+*.xlsx
+*.zip
+*.json
+*.h5
+*.pth
+*.pt
+*.pkl
+
+# Kaggle / API keys / credentials
+kaggle.json
+*.env
+*.key
+
+# Logs
+logs/
+*.log
+wandb/
+runs/
+tensorboard/
+
+# Temporary or generated files
+*.tmp
+*.bak
+*.swp
 
